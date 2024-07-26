@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2025-Now  &ensp;  IHEP(CAS) &ensp; Ph.D.
-* 2021-2025  &ensp; Shandong University &ensp; B.S
+* 2025-Now（expected 2030），Institute of High Energy Physics，University of Chinese Academy of Sciences，Ph.D.
+* 2021-2025，Department of Physics，Shandong University，B.S
 
 Work experience
 ======
