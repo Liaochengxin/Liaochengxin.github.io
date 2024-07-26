@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2025-Now   IHEP(CAS)  Ph.D.
-* 2021-2025   Shandong University  B.S
+* 2025-Now  &ensp;  IHEP(CAS) &ensp; Ph.D.
+* 2021-2025  &ensp; Shandong University &ensp; B.S
 
 Work experience
 ======
