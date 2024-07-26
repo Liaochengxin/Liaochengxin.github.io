@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "images/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=6495884191647915657&skey=@crypt_a057ed4_3b4559d7f084c6a6ac3a4a2d8a1811b4&mmweb_appid=wx_webfilehelper.jpg"
-  name             : "Chengxin, Liao"
+  name             : "ChengxinLiao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "A Noraml Student From Shandong University"
   location         : "China"
   employer         : "Shandong university"
   uri              : # URL
